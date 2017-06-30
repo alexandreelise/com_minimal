@@ -1,0 +1,17 @@
+{
+  "name": "Example",
+  "description": "just an example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "lint": "/usr/local/bin/a2k_sbpl ./src",
+    "validate": "",
+    "test": ""
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "devDependencies": {
+    "precommit-hook": "^3.0.0"
+  }
+}

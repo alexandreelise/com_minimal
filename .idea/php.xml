@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Behat">
+    <behat_settings>
+      <BehatSettings />
+      <behat_by_interpreter interpreter_id="122066a3-076c-49be-a4ee-bec8eb0a8728" behat_path="/home/vagrant/.composer/vendor/behat/behat/bin/behat" />
+    </behat_settings>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+</project>

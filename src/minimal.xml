@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="component" version="3.7" method="upgrade">
+    <name>com_minimal</name>
+    <author>Alexandre ELISÉ</author>
+    <creationDate>June 2017</creationDate>
+    <copyright>Copyright (c) 2017. Alexandre ELISÉ. All rights reserved</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorEmail>developpeur@application2000.com</authorEmail>
+    <authorUrl>www.application2000.com</authorUrl>
+    <version>0.0.1</version>
+    <description>Minimal component structure.</description>
+    <administration>
+        <files folder="admin">
+            <filename>minimal.php</filename>
+            <filename>index.html</filename>
+        </files>
+    </administration>
+    <files folder="site">
+        <filename>minimal.php</filename>
+        <filename>index.html</filename>
+    </files>
+    <updateservers>
+        <server type="extension" priority="1" name="com_minimal Updates">https://sites.loc/extensions/application2000/build/extension.xml</server>
+    </updateservers>
+</extension>
