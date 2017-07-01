@@ -20,6 +20,6 @@
         <filename>index.html</filename>
     </files>
     <updateservers>
-        <server type="extension" priority="1" name="com_minimal Updates">https://sites.loc/extensions/application2000/build/extension.xml</server>
+        <server type="extension" name="com_minimal Updates">https://raw.githubusercontent.com/application2000/com_minimal/dev/manifest.xml</server>
     </updateservers>
 </extension>
