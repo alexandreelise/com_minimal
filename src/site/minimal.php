@@ -1,7 +1,8 @@
 <?php
+declare(strict_types=1);
 /**
- * @package              com_dataful dataful.php
- * @author               Alexandre E. <developpeur@application2000.com>
+ * @package              minimal.php
+ * @author               Alexandre ELISÉ <developpeur@application2000.com>
  * @link                 https://www.application2000.com
  * @copyright        (C) 2017 www.application2000.com . Tous droits réservés.
  * @version              GIT: $Id$
