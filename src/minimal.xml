@@ -5,8 +5,8 @@
     <creationDate>June 2017</creationDate>
     <copyright>Copyright (c) 2017. Alexandre ELISÉ. All rights reserved</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-    <authorEmail>developpeur@application2000.com</authorEmail>
-    <authorUrl>www.application2000.com</authorUrl>
+    <authorEmail>contact@alexandre-elise.fr</authorEmail>
+    <authorUrl>https://alexandre-elisé.fr</authorUrl>
     <version>0.0.1</version>
     <description>Minimal component structure.</description>
     <administration>
@@ -20,6 +20,6 @@
         <filename>index.html</filename>
     </files>
     <updateservers>
-        <server type="extension" name="com_minimal Updates">https://raw.githubusercontent.com/application2000/com_minimal/dev/manifest.xml</server>
+        <server type="extension" name="com_minimal Updates">https://raw.githubusercontent.com/alexandreelise/com_minimal/dev/manifest.xml</server>
     </updateservers>
 </extension>
