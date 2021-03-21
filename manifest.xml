@@ -7,13 +7,13 @@
         <type>component</type>
         <version>0.0.1</version>
         <client>site</client>
-        <infourl title="Minimal Component">https://github.com/alexandreelise/com_minimal/releases/tag/0.0.1</infourl>
+        <infourl title="Minimal Component">https://github.com/alexandreelise/com_minimal/releases/latest</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/alexandreelise/com_minimal/archive/0.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/alexandreelise/com_minimal/releases/latest/download/com_minimal.zip</downloadurl>
         </downloads>
         <maintainer>Alexandre Elisé</maintainer>
-        <maintainerurl>https://alexandre-elisé.fr</maintainerurl>
-        <targetplatform name="joomla" version="3.[789]"/>
-        <php_minimum>7.2.0</php_minimum>
+        <maintainerurl>https://coderparlerpartager.fr</maintainerurl>
+        <targetplatform name="joomla" version="3.[89]"/>
+        <php_minimum>7.4.0</php_minimum>
     </update>
 </updates>
