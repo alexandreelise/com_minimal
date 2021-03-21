@@ -5,7 +5,7 @@
         <description>Minimal component</description>
         <element>com_minimal</element>
         <type>component</type>
-        <version>0.0.1</version>
+        <version>__DEPLOY_VERSION__</version>
         <client>site</client>
         <infourl title="Minimal Component">https://github.com/alexandreelise/com_minimal/releases/latest</infourl>
         <downloads>
